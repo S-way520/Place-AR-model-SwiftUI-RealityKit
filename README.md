@@ -1,7 +1,7 @@
 # Place-AR-model-SwiftUI-RealityKit
 Place a blue cube AR model
 # The first part
-![IMG_1217](https://github.com/S-way520/Place-AR-model-SwiftUI-RealityKit/assets/95877651/b2738647-a6bc-4849-942c-b67fc0d650c9)
+![IMG_1230](https://github.com/S-way520/Place-AR-model-SwiftUI-RealityKit/assets/95877651/b9ffd677-67ef-4892-96f0-d37b0ebde294)
 # The second part
 Code file 1
 ```swift
